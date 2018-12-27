@@ -1,0 +1,42 @@
+.about-background{
+    background-color: #47467B;
+    color: white;
+}
+
+.about-main-head{
+    font-family: 'Poppins', sans-serif;
+    font-size: 28px;
+    text-align: center;
+    padding-top: 6%;
+    padding-bottom: 2%;
+
+}
+
+.about-caption{
+    font-family: 'Raleway', sans-serif;
+    font-size:14px;
+    text-align: center;
+    padding-bottom: 2%;
+}
+
+.about-details{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    padding-bottom: 5.5%;
+}
+
+.about-freelancer-btn{
+    background-color: white;
+    color:#8249B3;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    height: 38px;
+    width: 100%;
+    border: none;
+    text-align: center;
+    margin-bottom: 4%;
+}
+
+.phoneImg{
+    width: 100%;
+}

@@ -1,0 +1,47 @@
+.jumbo-img{
+    background-image: url('/src/assets/Landing-page, Jumbotron/african-3399525_960_720.jpeg');
+}
+
+.jumbo-main-head{
+    font-family: 'Poppins', sans-serif;
+    font-size:40px;
+    color:white;
+    text-align: left;
+    padding-top: 7%;
+    padding-bottom: 6%;
+}
+
+.jumbo-caption-head{
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    color: white;
+    text-align: left;
+    padding-bottom: 3%;
+}
+
+.jumbo-form-input{
+    font-family:'Raleway', sans-serif;
+    text-align:center;
+    font-size: 14px;
+    color: #8249B3;
+    background-color: white;
+    border-color:#8249B3;
+    /*border-width: thin;*/
+    height:38px;
+    width: 100%;
+    margin-bottom: 10%;
+}
+
+.jumbo-form-button{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    border:none;
+    color: white;
+    background-color:#8249B3;
+    font-size:18px;
+    height:38px;
+    width: 100%;
+    margin-bottom:10%;
+}
+
+

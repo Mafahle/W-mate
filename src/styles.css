@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+.contain-it{
+    padding-right: 7%;
+    padding-left: 7%;
+}
+
+/*Main-heading*/
+
+.main-head{
+    font-family: poppins;
+    font-size: 48
+}
+
+/*Text-align left*/
+.tx-left{
+    text-align: left;
+}
