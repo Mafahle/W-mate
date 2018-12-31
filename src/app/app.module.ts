@@ -10,6 +10,7 @@ import { AboutComponent } from './Pages/landing-page/about/about.component';
 import { HeaderComponent } from './shared/header/header.component';
 import { FooterComponent } from './shared/footer/footer.component';
 import { MoreInfoComponent } from './Pages/landing-page/more-info/more-info.component';
+import { SignUpPageComponent } from './Pages/sign-up-page/sign-up-page.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { MoreInfoComponent } from './Pages/landing-page/more-info/more-info.comp
     AboutComponent,
     HeaderComponent,
     FooterComponent,
-    MoreInfoComponent
+    MoreInfoComponent,
+    SignUpPageComponent
   ],
   imports: [
     BrowserModule
