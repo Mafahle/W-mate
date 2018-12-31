@@ -1,0 +1,61 @@
+/*More info rapper*/
+.more-info{
+    background-color: #F2F2F2;
+    color: #58535D;
+}
+
+.main-head{
+    font-family: 'Poppins', sans-serif;
+    font-size: 28px;
+    padding-top: 12%;
+    padding-bottom: 2%;
+    text-align: center;
+    color: #47467B;
+}
+
+.main-caption{
+    font-family: 'Raleway', sans-serif;
+    font-size:14px;
+    padding-bottom: 5.5%;
+    text-align: center; 
+}
+
+.info-icons{
+    width: 70%;
+    padding-left: 30%;
+    padding-bottom: 5.5%;
+}
+
+.middle-head{
+    font-family: 'Roboto', sans-serif;
+    color: #47467B;
+    font-size: 16px;
+    text-align: center;
+    padding-bottom: 2%;
+}
+
+.info-discription{
+    font-family: 'Raleway', sans-serif;
+    text-align: left;
+    padding-bottom: 5.5%;  
+}
+
+.try-btn{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    background-color: white;
+    color: #8249B3;
+    text-align: center;
+    width: 100%;
+    height: 38px;
+    margin-bottom: 4%;
+    border: none;
+    margin-bottom: 10%;
+    border-radius: 5px;
+
+    transition-duration: 0.4s;
+}
+
+.try-btn:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}

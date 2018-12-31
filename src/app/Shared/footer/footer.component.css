@@ -1,0 +1,46 @@
+.work-logo{
+    width: 70%;
+    padding-left: 30%;
+    margin-top: 30px;
+    margin-bottom: 18px;
+}
+
+.footer-bk{
+    background-color: #47467B;
+    color: #F2F2F2;
+    text-align: left;
+}
+
+.footer-main-head{
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    margin-bottom: 10%;
+}
+
+.footer-link{
+    text-decoration: none;
+    color: #F2F2F2;
+}
+
+.footer-link:hover{
+    color: #C4C4C4;
+}
+
+.social-icons-group{
+    padding-right: 35%;
+}
+
+.social-icons{
+    width: 1300%;
+}
+
+.line{
+    width: 90%;
+    border-width: 0.25px;
+}
+
+.copy-right{
+    text-align: center;
+    font-size: 12px;
+    padding-bottom: 4%;
+}

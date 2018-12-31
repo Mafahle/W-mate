@@ -33,9 +33,9 @@
     height: 38px;
     width: 100%;
     border: none;
+    border-radius: 5px;
     text-align: center;
     margin-bottom: 4%;
-    ​-webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
 }
 
